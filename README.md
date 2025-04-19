@@ -33,7 +33,7 @@ npm run main --url=https://app.zenrows.com/register
 
 ## 📌 Why I Did This
 
-- To demonstrate that I care about what a product I am exploring.
+- To demonstrate that I care about products I am exploring.
 - To show how I think about debugging and understanding systems from the outside in.
 - To explore the practical boundaries of even the best scraping tools.
 - And, maybe, to share a chuckle about the classic saying:  
