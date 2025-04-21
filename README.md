@@ -1,4 +1,4 @@
-# 👞 The Shoemaker Goes Barefoot
+# 👞 Does The Shoemaker Go Barefoot?
 
 Welcome! 👋  
 Trying ZenRows API, genuinely curious about this technology, I wanted to explore the product hands-on — and what better way than to try scraping its own API registration page?
